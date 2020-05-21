@@ -8,7 +8,7 @@
     margin: auto;
 }
 .slides{
-    display: none;
+    display: block;
 }
 
 .slideNumber{
